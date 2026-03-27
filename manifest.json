@@ -2,7 +2,7 @@
   "name": "Container Vol Melding",
   "short_name": "Container Vol",
   "description": "Report full waste containers to Meerlanden – 2132HE Hoofddorp",
-  "start_url": "/",
+  "start_url": "/meerlanden-melding/",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#1a1a1a",
